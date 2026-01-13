@@ -1,0 +1,986 @@
+id,country,gender,age
+1,Cameroon,Male,21-31
+2,Chad,Female,21-31
+3,Sudan,Male,32-41
+4,Congo (Democratic Republic of the),Male,42-51
+5,Ukraine,Female,21-31
+6,Colombia,Female,32-41
+7,Kenya,Female,42-51
+8,Bangladesh,Male,42-51
+9,Ethiopia,Male,21-31
+10,South Sudan,Male,32-41
+11,Ethiopia,Male,32-41
+12,Tanzania,Female,21-31
+13,Uganda,Male,21-31
+14,Ethiopia,Male,21-31
+15,Ethiopia,Male,32-41
+16,Ghana,Female,32-41
+17,Syria,Female,21-31
+18,Somalia,Male,21-31
+19,Myanmar (Burma),Male,21-31
+20,Ethiopia,Female,21-31
+21,Ethiopia,Male,21-31
+22,Syria,Female,21-31
+23,Kenya,Female,32-41
+24,Colombia,Female,42-51
+25,Cote d’Ivoire,Male,< 21
+26,Philippines,Female,32-41
+27,Chad,Male,21-31
+28,Ethiopia,Male,21-31
+29,United States,Female,42-51
+30,Ethiopia,Female,21-31
+31,Colombia,Female,21-31
+32,Nigeria,Female,32-41
+33,Ethiopia,Male,32-41
+34,Benin,Male,32-41
+35,Jordan,Female,21-31
+36,South Sudan,Male,32-41
+37,Cote d’Ivoire,Male,21-31
+38,Cameroon,Male,32-41
+39,Cameroon,Male,21-31
+40,Sudan,Male,32-41
+41,Niger,Male,42-51
+42,Burundi,Female,< 21
+43,United Kingdom,Male,42-51
+44,Ethiopia,Female,32-41
+45,Sudan,Female,32-41
+46,Afghanistan,Male,42-51
+47,Kyrgyzstan,Female,< 21
+48,Congo (Democratic Republic of the),Male,21-31
+49,Niger,Male,21-31
+50,Papua New Guinea,Female,42-51
+51,Cameroon,Male,32-41
+52,Honduras,Female,32-41
+53,Cameroon,Male,21-31
+54,Nigeria,Female,21-31
+55,United States,Male,21-31
+56,Philippines,Male,21-31
+57,Chad,Male,21-31
+58,Afghanistan,Female,21-31
+59,Romania,Female,21-31
+60,Ghana,Male,32-41
+61,Sri Lanka,Female,42-51
+62,France,Male,21-31
+63,Afghanistan,Male,21-31
+64,United Kingdom,Female,42-51
+65,Palestine,Male,21-31
+66,Cote d’Ivoire,Not specified,Not specified
+67,Cote d’Ivoire,Male,42-51
+68,Kenya,Not specified,Not specified
+69,Ghana,Female,< 21
+70,United Kingdom,Female,21-31
+71,Israel,Female,21-31
+72,United Kingdom,Male,32-41
+73,Syria,Female,21-31
+74,Philippines,Female,21-31
+75,Western Samoa,Not specified,< 21
+76,Canada,Female,21-31
+77,Albania,Not specified,52-61
+78,Pakistan,Male,42-51
+79,Afghanistan,Male,32-41
+80,Norfolk Island,Male,42-51
+81,Russia,Male,< 21
+82,Nigeria,Male,32-41
+83,Ghana,Male,32-41
+84,United Kingdom,Female,21-31
+85,Eritrea,Not specified,32-41
+86,Nigeria,Male,21-31
+87,Chad,Male,42-51
+88,Ukraine,Female,21-31
+89,Cote d’Ivoire,Male,< 21
+90,Nigeria,Male,21-31
+91,Ethiopia,Male,32-41
+92,Burundi,Male,62+
+93,Uganda,Female,21-31
+94,South Sudan,Male,42-51
+95,Ukraine,Male,32-41
+96,Brunei,Male,21-31
+97,Kenya,Female,21-31
+98,Bangladesh,Female,21-31
+99,Nigeria,Male,42-51
+100,Chad,Male,42-51
+101,Philippines,Female,21-31
+102,Benin,Male,32-41
+103,Nigeria,Male,21-31
+104,Kenya,Female,32-41
+105,Congo (Democratic Republic of the),Male,32-41
+106,Ethiopia,Male,21-31
+107,Afghanistan,Male,32-41
+108,Nigeria,Not specified,Not specified
+109,Sudan,Male,21-31
+110,Ethiopia,Male,21-31
+111,Honduras,Male,21-31
+112,Ethiopia,Male,21-31
+113,Pakistan,Female,21-31
+114,Tanzania,Female,32-41
+115,Afghanistan,Male,32-41
+116,Ethiopia,Male,32-41
+117,United States,Female,21-31
+118,United States,Male,21-31
+119,Netherlands,Female,42-51
+120,United States,Male,32-41
+121,Nigeria,Female,21-31
+122,United States,Female,52-61
+123,Afghanistan,Female,32-41
+124,Ecuador,Female,42-51
+125,El Salvador,Female,21-31
+126,United States,Female,21-31
+127,Colombia,Male,32-41
+128,Chad,Male,21-31
+129,United States,Female,21-31
+130,Kenya,Male,21-31
+131,Nigeria,Female,32-41
+132,United Kingdom,Not specified,Not specified
+133,Norway,Male,32-41
+134,Philippines,Male,21-31
+135,Sudan,Female,21-31
+136,Netherlands,Female,32-41
+137,Chad,Male,32-41
+138,Algeria,Female,21-31
+139,Sudan,Male,21-31
+140,Pakistan,Male,52-61
+141,India,Male,21-31
+142,Nigeria,Male,21-31
+143,Peru,Female,42-51
+144,Ethiopia,Female,21-31
+145,Nigeria,Female,21-31
+146,Niger,Female,21-31
+147,Zambia,Female,52-61
+148,Egypt,Female,21-31
+149,Rwanda,Not specified,Not specified
+150,British Virgin Islands,Male,Not specified
+151,Spain,Female,32-41
+152,Kenya,Female,21-31
+153,Haiti,Male,42-51
+154,Nigeria,Female,21-31
+155,Kenya,Female,32-41
+156,India,Male,21-31
+157,United States,Male,32-41
+158,Somalia,Male,21-31
+159,Ethiopia,Male,32-41
+160,United States,Female,21-31
+161,France,Male,21-31
+162,Cameroon,Female,32-41
+163,Egypt,Not specified,Not specified
+164,Cameroon,Male,21-31
+165,Malawi,Male,32-41
+166,Haiti,Male,21-31
+167,Ghana,Female,21-31
+168,Indonesia,Male,21-31
+169,Sri Lanka,Female,21-31
+170,India,Male,21-31
+171,Uganda,Female,21-31
+172,Chad,Female,21-31
+173,Sudan,Female,21-31
+174,Syria,Male,21-31
+175,Kenya,Male,21-31
+176,Germany,Female,42-51
+177,Central African Republic,Female,32-41
+178,Ethiopia,Male,32-41
+179,Haiti,Female,52-61
+180,Nigeria,Male,32-41
+181,Colombia,Female,32-41
+182,Germany,Female,21-31
+183,United Kingdom,Male,< 21
+184,Sudan,Male,21-31
+185,Sweden,Female,42-51
+186,Colombia,Male,21-31
+187,Mali,Male,32-41
+188,Ethiopia,Female,21-31
+189,China,Male,21-31
+190,Burkina Faso,Male,32-41
+191,Palestine,Female,32-41
+192,Philippines,Female,21-31
+193,Ethiopia,Male,32-41
+194,Myanmar (Burma),Male,21-31
+195,Peru,Male,21-31
+196,Burkina Faso,Male,52-61
+197,India,Male,21-31
+198,Colombia,Female,52-61
+199,Indonesia,Male,21-31
+200,Zimbabwe,Male,21-31
+201,Netherlands,Female,52-61
+202,Zimbabwe,Male,21-31
+203,Afghanistan,Male,42-51
+204,Cameroon,Male,52-61
+205,Nigeria,Female,21-31
+206,South Sudan,Male,32-41
+207,Philippines,Female,21-31
+208,Kenya,Female,21-31
+209,Sweden,Male,32-41
+210,Zimbabwe,Female,32-41
+211,Chad,Male,32-41
+212,Kenya,Female,21-31
+213,Cote d’Ivoire,Male,32-41
+214,Palestine,Female,42-51
+215,South Sudan,Female,21-31
+216,Palestine,Male,42-51
+217,Burkina Faso,Male,32-41
+218,Guyana,Female,62+
+219,Malawi,Female,32-41
+220,Nepal,Female,52-61
+221,United States,Female,32-41
+222,Burkina Faso,Female,21-31
+223,Ecuador,Male,21-31
+224,Chad,Male,32-41
+225,Cote d’Ivoire,Male,32-41
+226,Nigeria,Female,21-31
+227,United Kingdom,Male,42-51
+228,Benin,Male,32-41
+229,Switzerland,Female,21-31
+230,Egypt,Female,21-31
+231,Kenya,Female,21-31
+232,Australia,Male,21-31
+233,Cameroon,Male,21-31
+234,Somalia,Male,21-31
+235,Kenya,Male,21-31
+236,Cambodia,Male,32-41
+237,Burkina Faso,Female,21-31
+238,Colombia,Female,32-41
+239,United States,Female,21-31
+240,United States,Female,21-31
+241,South Sudan,Male,21-31
+242,United Kingdom,Male,62+
+243,Australia,Female,42-51
+244,Faroe Islands,Not specified,32-41
+245,Afghanistan,Male,21-31
+246,Burkina Faso,Female,21-31
+247,United Kingdom,Male,42-51
+248,Honduras,Female,32-41
+249,Ethiopia,Female,21-31
+250,Benin,Male,21-31
+251,Mauritania,Male,Not specified
+252,Palestine,Male,21-31
+253,Ethiopia,Male,21-31
+254,Kenya,Female,21-31
+255,Cameroon,Female,21-31
+256,Lebanon,Female,21-31
+257,Ethiopia,Not specified,Not specified
+258,Israel,Male,42-51
+259,Ethiopia,Male,21-31
+260,United States,Female,21-31
+261,Niger,Male,21-31
+262,Burkina Faso,Male,21-31
+263,Afghanistan,Male,52-61
+264,United Kingdom,Male,< 21
+265,Chad,Male,21-31
+266,France,Female,32-41
+267,Ethiopia,Female,32-41
+268,Nigeria,Male,21-31
+269,Burkina Faso,Female,21-31
+270,Tanzania,Female,32-41
+271,Ethiopia,Female,21-31
+272,Ethiopia,Male,21-31
+273,Chad,Male,21-31
+274,South Sudan,Male,32-41
+275,Ghana,Female,21-31
+276,United States,Female,Not specified
+277,Afghanistan,Female,21-31
+278,India,Male,32-41
+279,Russia,Female,< 21
+280,Nigeria,Female,21-31
+281,Philippines,Female,21-31
+282,Philippines,Male,21-31
+283,Russia,Female,< 21
+284,Argentina,Male,< 21
+285,Syria,Male,42-51
+286,Kenya,Female,42-51
+287,Ethiopia,Female,< 21
+288,United Kingdom,Male,62+
+289,Syria,Female,21-31
+290,United Kingdom,Female,21-31
+291,Cote d’Ivoire,Male,32-41
+292,Brunei,Female,32-41
+293,Slovakia,Female,32-41
+294,Germany,Female,32-41
+295,Kenya,Male,21-31
+296,Ethiopia,Male,21-31
+297,United States,Female,21-31
+298,United Kingdom,Male,52-61
+299,Jordan,Female,< 21
+300,Ethiopia,Female,21-31
+301,Nigeria,Male,32-41
+302,Congo (Democratic Republic of the),Male,21-31
+303,Ethiopia,Male,21-31
+304,United Arab Emirates,Male,21-31
+305,Cote d’Ivoire,Not specified,Not specified
+306,Benin,Not specified,Not specified
+307,Ethiopia,Female,32-41
+308,Burkina Faso,Male,32-41
+309,Ethiopia,Male,21-31
+310,Colombia,Male,32-41
+311,Yemen,Female,42-51
+312,Mali,Female,21-31
+313,Afghanistan,Male,32-41
+314,Philippines,Male,21-31
+315,Afghanistan,Not specified,Not specified
+316,United Kingdom,Male,21-31
+317,Nigeria,Male,21-31
+318,Afghanistan,Male,21-31
+319,Ethiopia,Male,21-31
+320,Congo (Democratic Republic of the),Female,21-31
+321,Uganda,Male,32-41
+322,India,Female,21-31
+323,Chad,Male,21-31
+324,Colombia,Female,21-31
+325,Falkland Islands (Islas Malvinas),Female,21-31
+326,Uganda,Male,32-41
+327,Kenya,Male,< 21
+328,Madagascar,Male,21-31
+329,Yemen,Male,32-41
+330,Madagascar,Female,21-31
+331,Afghanistan,Female,32-41
+332,Saint Helena,Male,Not specified
+333,Colombia,Male,32-41
+334,Argentina,Female,32-41
+335,Italy,Female,21-31
+336,Malawi,Male,21-31
+337,Spain,Female,52-61
+338,Cameroon,Male,32-41
+339,Nigeria,Male,42-51
+340,Guatemala,Female,52-61
+341,Central African Republic,Male,32-41
+342,Nigeria,Female,21-31
+343,Russia,Male,< 21
+344,Ethiopia,Male,21-31
+345,United Kingdom,Female,Not specified
+346,Madagascar,Female,21-31
+347,Palestine,Male,32-41
+348,Iraq,Not specified,Not specified
+349,Chad,Male,21-31
+350,Brazil,Female,21-31
+351,United Kingdom,Male,52-61
+352,Ecuador,Male,21-31
+353,United Kingdom,Male,52-61
+354,Benin,Male,21-31
+355,Afghanistan,Female,< 21
+356,Nigeria,Female,21-31
+357,Congo (Democratic Republic of the),Male,32-41
+358,Lebanon,Female,21-31
+359,Sudan,Not specified,Not specified
+360,Philippines,Female,32-41
+361,Mali,Male,32-41
+362,Russia,Male,21-31
+363,China,Female,21-31
+364,Ethiopia,Male,32-41
+365,Uganda,Female,21-31
+366,China,Female,21-31
+367,Uganda,Male,21-31
+368,Philippines,Female,21-31
+369,Sweden,Female,32-41
+370,Thailand,Female,21-31
+371,Somalia,Female,21-31
+372,South Sudan,Female,21-31
+373,Burkina Faso,Female,21-31
+374,Ethiopia,Male,21-31
+375,Iran,Male,21-31
+376,Congo (Democratic Republic of the),Male,21-31
+377,Burkina Faso,Male,21-31
+378,Burkina Faso,Female,21-31
+379,Congo (Democratic Republic of the),Male,52-61
+380,United States,Female,21-31
+381,United Kingdom,Male,52-61
+382,Kenya,Female,32-41
+383,United Kingdom,Female,21-31
+384,Cameroon,Female,32-41
+385,Jordan,Male,21-31
+386,Myanmar (Burma),Male,32-41
+387,Honduras,Male,21-31
+388,Zambia,Not specified,Not specified
+389,Kenya,Male,52-61
+390,China,Male,< 21
+391,Lebanon,Male,21-31
+392,Ethiopia,Female,21-31
+393,Colombia,Male,32-41
+394,Ethiopia,Male,21-31
+395,Yemen,Male,32-41
+396,Iraq,Female,21-31
+397,United Kingdom,Male,42-51
+398,Palestine,Male,42-51
+399,Burkina Faso,Male,21-31
+400,Ethiopia,Male,21-31
+401,Lebanon,Male,32-41
+402,Thailand,Not specified,Not specified
+403,Chad,Female,21-31
+404,Myanmar (Burma),Female,32-41
+405,Uganda,Male,21-31
+406,Ethiopia,Male,32-41
+407,Ethiopia,Male,21-31
+408,Chad,Male,21-31
+409,Senegal,Male,42-51
+410,Nigeria,Female,21-31
+411,Cameroon,Female,21-31
+412,Hong Kong (China),Female,Not specified
+413,Liechtenstein,Not specified,32-41
+414,Cote d’Ivoire,Male,32-41
+415,New Zealand,Not specified,Not specified
+416,United Kingdom,Male,52-61
+417,United States,Female,21-31
+418,Congo (Democratic Republic of the),Male,21-31
+419,Afghanistan,Female,21-31
+420,Burkina Faso,Male,32-41
+421,United Kingdom,Female,32-41
+422,Papua New Guinea,Male,32-41
+423,Israel,Male,21-31
+424,Bouvet Island,Not specified,32-41
+425,Switzerland,Male,21-31
+426,Italy,Female,32-41
+427,Kenya,Male,21-31
+428,China,Male,< 21
+429,United Kingdom,Female,32-41
+430,Nigeria,Female,32-41
+431,South Sudan,Female,21-31
+432,Ecuador,Female,21-31
+433,Burkina Faso,Male,21-31
+434,Burkina Faso,Female,21-31
+435,Sri Lanka,Female,42-51
+436,Chad,Male,21-31
+437,Lebanon,Male,32-41
+438,Algeria,Female,42-51
+439,Ethiopia,Male,32-41
+440,Colombia,Male,21-31
+441,Panama,Female,52-61
+442,China,Male,32-41
+443,Nigeria,Male,21-31
+444,Switzerland,Male,42-51
+445,Chad,Male,21-31
+446,Ethiopia,Male,32-41
+447,Afghanistan,Male,21-31
+448,United Kingdom,Male,42-51
+449,United Kingdom,Male,42-51
+450,Thailand,Male,Not specified
+451,Ethiopia,Male,21-31
+452,Afghanistan,Male,21-31
+453,Ukraine,Male,21-31
+454,Ethiopia,Male,21-31
+455,Burkina Faso,Female,21-31
+456,Chad,Male,32-41
+457,Cameroon,Male,32-41
+458,Congo (Democratic Republic of the),Male,21-31
+459,Chad,Male,42-51
+460,United States,Male,21-31
+461,Honduras,Male,52-61
+462,Congo (Democratic Republic of the),Male,21-31
+463,Kenya,Female,21-31
+464,Kenya,Male,21-31
+465,Philippines,Male,21-31
+466,,Not specified,Not specified
+467,Ethiopia,Male,21-31
+468,Chad,Male,32-41
+469,Sudan,Male,21-31
+470,Ethiopia,Male,21-31
+471,Nigeria,Male,32-41
+472,South Sudan,Female,21-31
+473,Laos,Female,32-41
+474,Cameroon,Male,42-51
+475,Ethiopia,Male,21-31
+476,Kenya,Female,32-41
+477,Bolivia,Female,42-51
+478,Afghanistan,Female,32-41
+479,Congo (Democratic Republic of the),Not specified,Not specified
+480,Nigeria,Female,32-41
+481,Spain,Male,32-41
+482,Norway,Female,32-41
+483,United Kingdom,Female,21-31
+484,Afghanistan,Male,21-31
+485,Ethiopia,Male,32-41
+486,Congo (Democratic Republic of the),Male,42-51
+487,Afghanistan,Female,21-31
+488,Philippines,Male,32-41
+489,Ghana,Male,32-41
+490,United Kingdom,Male,52-61
+491,Egypt,Male,21-31
+492,Afghanistan,Female,21-31
+493,Malawi,Male,21-31
+494,Australia,Not specified,42-51
+495,Palestine,Female,Not specified
+496,Yemen,Male,32-41
+497,Chad,Female,21-31
+498,Benin,Male,21-31
+499,Ethiopia,Male,42-51
+500,Nigeria,Male,21-31
+501,Kenya,Female,21-31
+502,Saudi Arabia,Female,32-41
+503,Ukraine,Female,42-51
+504,Burundi,Female,21-31
+505,Yemen,Female,32-41
+506,Kenya,Female,< 21
+507,Ethiopia,Male,32-41
+508,Afghanistan,Male,21-31
+509,United States,Male,62+
+510,Ghana,Female,32-41
+511,Sri Lanka,Female,21-31
+512,Honduras,Male,21-31
+513,Egypt,Male,21-31
+514,Zimbabwe,Female,32-41
+515,Nigeria,Male,32-41
+516,Cameroon,Not specified,Not specified
+517,Ethiopia,Male,21-31
+518,Taiwan,Male,< 21
+519,United Kingdom,Male,32-41
+520,South Africa,Female,21-31
+521,Yemen,Female,21-31
+522,France,Female,21-31
+523,Burkina Faso,Not specified,Not specified
+524,Nigeria,Male,21-31
+525,Mali,Male,32-41
+526,Yemen,Male,32-41
+527,South Africa,Female,52-61
+528,Uzbekistan,Male,42-51
+529,Nigeria,Male,21-31
+530,Ghana,Male,32-41
+531,Comoros,Male,< 21
+532,Jordan,Female,21-31
+533,China,Male,21-31
+534,United Kingdom,Male,52-61
+535,Cameroon,Female,< 21
+536,Guatemala,Female,32-41
+537,Palestine,Male,21-31
+538,Ghana,Female,32-41
+539,United Kingdom,Male,21-31
+540,Cameroon,Male,32-41
+541,Kenya,Male,32-41
+542,Sudan,Female,21-31
+543,Holy See (Vatican City),Not specified,52-61
+544,Syria,Female,42-51
+545,Sudan,Not specified,Not specified
+546,Colombia,Male,21-31
+547,Pakistan,Female,42-51
+548,Netherlands,Male,21-31
+549,Afghanistan,Male,21-31
+550,Sri Lanka,Female,21-31
+551,India,Not specified,42-51
+552,Tanzania,Female,52-61
+553,Pakistan,Male,21-31
+554,Burkina Faso,Not specified,Not specified
+555,Colombia,Female,42-51
+556,Bangladesh,Male,21-31
+557,Philippines,Female,21-31
+558,Congo (Republic of the),Male,21-31
+559,Ecuador,Female,21-31
+560,Kenya,Male,21-31
+561,Ethiopia,Female,42-51
+562,Nigeria,Female,32-41
+563,Pakistan,Male,< 21
+564,Nigeria,Female,42-51
+565,Canada,Female,52-61
+566,Afghanistan,Female,21-31
+567,Colombia,Not specified,Not specified
+568,Nigeria,Male,32-41
+569,Senegal,Female,< 21
+570,Palestine,Female,32-41
+571,French Southern and Antarctic Lands,Male,Not specified
+572,United States,Male,21-31
+573,Afghanistan,Male,32-41
+574,Tanzania,Female,21-31
+575,Taiwan,Not specified,52-61
+576,United Kingdom,Female,42-51
+577,Yemen,Male,21-31
+578,Ethiopia,Male,32-41
+579,Bangladesh,Male,42-51
+580,Afghanistan,Female,21-31
+581,China,Male,< 21
+582,Jordan,Female,32-41
+583,Nigeria,Female,21-31
+584,Nigeria,Female,21-31
+585,Haiti,Male,21-31
+586,United States,Male,32-41
+587,Sudan,Not specified,Not specified
+588,Uganda,Female,21-31
+589,Switzerland,Female,32-41
+590,United States,Male,21-31
+591,Algeria,Male,42-51
+592,Lebanon,Female,21-31
+593,Indonesia,Male,21-31
+594,Lebanon,Female,21-31
+595,Haiti,Male,32-41
+596,Trinidad and Tobago,Female,42-51
+597,Gabon,Female,21-31
+598,Kenya,Female,21-31
+599,Cameroon,Female,32-41
+600,Syria,Male,62+
+601,Ethiopia,Male,32-41
+602,South Sudan,Male,32-41
+603,Bahamas (The),Female,Not specified
+604,Philippines,Male,21-31
+605,Colombia,Male,21-31
+606,Afghanistan,Male,32-41
+607,Pakistan,Male,42-51
+608,Kenya,Female,21-31
+609,Philippines,Female,21-31
+610,Burkina Faso,Male,21-31
+611,Nigeria,Male,21-31
+612,Ethiopia,Male,21-31
+613,Ghana,Male,21-31
+614,Senegal,Male,52-61
+615,Ethiopia,Male,32-41
+616,South Sudan,Female,21-31
+617,Kenya,Female,21-31
+618,Switzerland,Female,< 21
+619,Ethiopia,Male,32-41
+620,Syria,Male,< 21
+621,Chad,Female,21-31
+622,Ethiopia,Female,21-31
+623,United Kingdom,Female,21-31
+624,United Kingdom,Male,42-51
+625,Pitcairn Islands,Male,< 21
+626,Ethiopia,Female,21-31
+627,Afghanistan,Male,21-31
+628,Syria,Female,21-31
+629,Senegal,Not specified,Not specified
+630,Chad,Male,32-41
+631,Chad,Male,32-41
+632,Myanmar (Burma),Male,32-41
+633,Bangladesh,Male,32-41
+634,China,Male,32-41
+635,Cote d’Ivoire,Male,21-31
+636,Cote d’Ivoire,Male,32-41
+637,Syria,Female,32-41
+638,Zimbabwe,Female,42-51
+639,Pakistan,Female,32-41
+640,Syria,Male,62+
+641,Nigeria,Male,32-41
+642,United Kingdom,Female,21-31
+643,Benin,Female,21-31
+644,Uganda,Male,42-51
+645,Senegal,Male,21-31
+646,Colombia,Female,42-51
+647,Kenya,Male,32-41
+648,Bangladesh,Female,21-31
+649,Haiti,Female,21-31
+650,Russia,Male,21-31
+651,Ethiopia,Male,32-41
+652,Japan,Female,21-31
+653,Italy,Female,21-31
+654,United States,Female,32-41
+655,Malawi,Male,21-31
+656,Cameroon,Male,21-31
+657,Indonesia,Male,21-31
+658,South Africa,Male,32-41
+659,United Kingdom,Female,42-51
+660,Afghanistan,Female,21-31
+661,Nigeria,Female,21-31
+662,Congo (Democratic Republic of the),Male,32-41
+663,Sudan,Male,21-31
+664,Netherlands,Female,32-41
+665,Iran,Male,32-41
+666,Jordan,Male,21-31
+667,Netherlands,Male,21-31
+668,Burkina Faso,Female,21-31
+669,Philippines,Male,42-51
+670,Kenya,Male,32-41
+671,Spain,Female,21-31
+672,Lebanon,Male,< 21
+673,,Male,21-31
+674,Colombia,Male,21-31
+675,Afghanistan,Male,21-31
+676,United Kingdom,Female,42-51
+677,Myanmar (Burma),Female,32-41
+678,Jordan,Female,21-31
+679,Cameroon,Male,21-31
+680,Philippines,Female,42-51
+681,Botswana,Not specified,42-51
+682,Congo (Democratic Republic of the),Female,21-31
+683,Israel,Male,21-31
+684,United Kingdom,Female,< 21
+685,Yemen,Not specified,32-41
+686,Kenya,Not specified,Not specified
+687,United States,Female,62+
+688,Suriname,Not specified,32-41
+689,Syria,Male,32-41
+690,United Kingdom,Male,21-31
+691,China,Male,21-31
+692,Ethiopia,Male,21-31
+693,Turkey,Female,21-31
+694,Cameroon,Female,21-31
+695,Morocco,Male,< 21
+696,Ghana,Male,21-31
+697,United States,Female,32-41
+698,Zimbabwe,Female,21-31
+699,Nigeria,Male,32-41
+700,Burkina Faso,Female,21-31
+701,South Africa,Female,32-41
+702,Taiwan,Female,< 21
+703,Kenya,Female,21-31
+704,United Kingdom,Male,21-31
+705,United Kingdom,Male,21-31
+706,Hungary,Female,32-41
+707,Nigeria,Female,21-31
+708,Mauritius,Male,62+
+709,United States,Female,32-41
+710,Cameroon,Female,42-51
+711,Afghanistan,Male,21-31
+712,Cameroon,Male,32-41
+713,Syria,Male,32-41
+714,Sudan,Female,21-31
+715,Cameroon,Male,32-41
+716,United States,Female,21-31
+717,Palestine,Female,21-31
+718,Ethiopia,Male,21-31
+719,Mozambique,Male,21-31
+720,United Kingdom,Male,32-41
+721,Qatar,Male,62+
+722,Portugal,Female,21-31
+723,Afghanistan,Male,32-41
+724,Burkina Faso,Female,32-41
+725,Ethiopia,Male,21-31
+726,Myanmar (Burma),Male,21-31
+727,Switzerland,Female,21-31
+728,Sudan,Not specified,Not specified
+729,Sudan,Male,21-31
+730,Syria,Male,32-41
+731,United States,Not specified,Not specified
+732,Ethiopia,Male,21-31
+733,Somalia,Female,21-31
+734,Bangladesh,Not specified,Not specified
+735,Ethiopia,Male,32-41
+736,Puerto Rico,Not specified,62+
+737,Ethiopia,Male,21-31
+738,South Africa,Male,32-41
+739,Ethiopia,Male,21-31
+740,Swaziland,Female,21-31
+741,Philippines,Female,21-31
+742,Kenya,Male,21-31
+743,Senegal,Male,21-31
+744,Palestine,Male,32-41
+745,Niger,Male,32-41
+746,Philippines,Female,21-31
+747,Chad,Male,21-31
+748,Cameroon,Female,21-31
+749,Colombia,Female,32-41
+750,United Kingdom,Male,52-61
+751,Afghanistan,Male,21-31
+752,Australia,Not specified,62+
+753,South Sudan,Male,21-31
+754,Congo (Democratic Republic of the),Male,21-31
+755,Saint Helena,Not specified,42-51
+756,Israel,Female,32-41
+757,United Kingdom,Male,32-41
+758,Ecuador,Female,21-31
+759,Ethiopia,Male,21-31
+760,Nigeria,Female,21-31
+761,Central African Republic,Male,21-31
+762,Bangladesh,Male,21-31
+763,Ethiopia,Male,32-41
+764,Ethiopia,Male,21-31
+765,Guatemala,Female,21-31
+766,Canada,Female,Not specified
+767,China,Male,21-31
+768,Sudan,Male,32-41
+769,Bangladesh,Male,32-41
+770,Venezuela,Female,52-61
+771,Algeria,Female,21-31
+772,United Kingdom,Male,52-61
+773,Tunisia,Male,21-31
+774,Antarctica,Not specified,32-41
+775,Congo (Democratic Republic of the),Male,32-41
+776,Switzerland,Female,< 21
+777,Ethiopia,Female,21-31
+778,Ecuador,Not specified,Not specified
+779,Syria,Male,32-41
+780,Afghanistan,Male,21-31
+781,Ireland,Female,32-41
+782,United States Minor Outlying Islands,Female,Not specified
+783,Ethiopia,Male,21-31
+784,Chad,Female,21-31
+785,Cote d’Ivoire,Female,32-41
+786,Ethiopia,Male,21-31
+787,Myanmar (Burma),Female,21-31
+788,United States,Male,32-41
+789,Ethiopia,Male,21-31
+790,United States,Not specified,Not specified
+791,Dominican Republic,Not specified,32-41
+792,Benin,Female,42-51
+793,Egypt,Male,42-51
+794,Australia,Female,42-51
+795,Montserrat,Female,52-61
+796,Kenya,Male,32-41
+797,Turkey,Female,21-31
+798,Burkina Faso,Female,32-41
+799,Togo,Female,32-41
+800,Russia,Female,21-31
+801,Ethiopia,Male,21-31
+802,Yemen,Female,32-41
+803,United States,Female,21-31
+804,Pakistan,Female,42-51
+805,Ethiopia,Female,21-31
+806,Pakistan,Male,21-31
+807,Uganda,Male,21-31
+808,Afghanistan,Male,21-31
+809,Russia,Male,21-31
+810,Colombia,Female,32-41
+811,Syria,Female,32-41
+812,United Kingdom,Male,21-31
+813,Afghanistan,Male,Not specified
+814,United Kingdom,Male,21-31
+815,United States,Female,21-31
+816,Chad,Male,32-41
+817,Palestine,Female,21-31
+818,Cameroon,Female,21-31
+819,Saudi Arabia,Male,21-31
+820,United States,Male,21-31
+821,Monaco,Not specified,32-41
+822,Nigeria,Female,32-41
+823,Ethiopia,Female,21-31
+824,Nigeria,Male,42-51
+825,Kenya,Female,32-41
+826,Cameroon,Female,32-41
+827,Uganda,Male,42-51
+828,Turkey,Male,21-31
+829,Kenya,Female,32-41
+830,Germany,Male,21-31
+831,United States,Female,32-41
+832,Italy,Female,< 21
+833,Kenya,Male,32-41
+834,Uganda,Female,21-31
+835,Ethiopia,Male,21-31
+836,Yemen,Male,21-31
+837,United Kingdom,Male,32-41
+838,Costa Rica,Not specified,Not specified
+839,Cote d’Ivoire,Female,42-51
+840,South Sudan,Male,21-31
+841,France,Female,21-31
+842,Ethiopia,Female,32-41
+843,Colombia,Female,21-31
+844,United Kingdom,Female,32-41
+845,Philippines,Male,21-31
+846,Cote d’Ivoire,Female,32-41
+847,Afghanistan,Male,21-31
+848,United Kingdom,Male,42-51
+849,Sudan,Female,21-31
+850,Ecuador,Female,< 21
+851,Canada,Female,32-41
+852,Burkina Faso,Male,52-61
+853,Zimbabwe,Male,21-31
+854,Ethiopia,Male,21-31
+855,Afghanistan,Male,21-31
+856,Syria,Male,32-41
+857,Philippines,Male,21-31
+858,Ethiopia,Female,21-31
+859,Ethiopia,Male,21-31
+860,Portugal,Male,21-31
+861,United Kingdom,Female,52-61
+862,Ethiopia,Male,21-31
+863,Nigeria,Male,21-31
+864,Ethiopia,Not specified,Not specified
+865,Syria,Female,32-41
+866,Bangladesh,Male,21-31
+867,Israel,Female,21-31
+868,Palestine,Female,32-41
+869,Palestine,Male,32-41
+870,Cameroon,Male,21-31
+871,Japan,Female,< 21
+872,Ethiopia,Male,32-41
+873,Ethiopia,Male,21-31
+874,Congo (Democratic Republic of the),Male,21-31
+875,Niger,Male,32-41
+876,Nigeria,Male,21-31
+877,Burkina Faso,Female,21-31
+878,Saint Lucia,Female,< 21
+879,India,Female,21-31
+880,Cote d’Ivoire,Male,21-31
+881,Nigeria,Female,21-31
+882,Poland,Female,42-51
+883,Burkina Faso,Male,32-41
+884,Cameroon,Male,32-41
+885,Ethiopia,Male,42-51
+886,Myanmar (Burma),Female,21-31
+887,Burkina Faso,Male,32-41
+888,Niger,Female,21-31
+889,Cote d’Ivoire,Male,21-31
+890,Colombia,Female,42-51
+891,Syria,Male,21-31
+892,Kenya,Male,32-41
+893,United States,Male,21-31
+894,Afghanistan,Male,21-31
+895,Ethiopia,Male,21-31
+896,Ghana,Male,21-31
+897,Ethiopia,Male,21-31
+898,Venezuela,Female,21-31
+899,Ukraine,Not specified,42-51
+900,Nigeria,Female,21-31
+901,Iran,Male,32-41
+902,Nigeria,Male,42-51
+903,Afghanistan,Male,21-31
+904,Burundi,Male,32-41
+905,Kenya,Female,21-31
+906,Myanmar (Burma),Female,32-41
+907,Kenya,Female,21-31
+908,Philippines,Male,21-31
+909,Congo (Democratic Republic of the),Male,21-31
+910,Colombia,Female,21-31
+911,Philippines,Male,21-31
+912,Uganda,Male,32-41
+913,Russia,Female,21-31
+914,Egypt,Female,21-31
+915,Palestine,Male,32-41
+916,Latvia,Female,32-41
+917,Syria,Male,32-41
+918,United States,Male,21-31
+919,Ethiopia,Male,32-41
+920,Jordan,Male,32-41
+921,Afghanistan,Male,21-31
+922,Kenya,Male,52-61
+923,United States,Female,21-31
+924,Bangladesh,Male,32-41
+925,Afghanistan,Female,21-31
+926,Ethiopia,Male,21-31
+927,Lebanon,Male,42-51
+928,Haiti,Female,32-41
+929,Syria,Male,32-41
+930,Ecuador,Male,32-41
+931,Pakistan,Male,32-41
+932,Estonia,Not specified,62+
+933,Ethiopia,Male,21-31
+934,Ethiopia,Male,32-41
+935,Ethiopia,Female,21-31
+936,Ethiopia,Male,32-41
+937,Niger,Male,21-31
+938,India,Male,32-41
+939,Australia,Male,21-31
+940,France,Female,21-31
+941,Ethiopia,Male,32-41
+942,Ethiopia,Male,21-31
+943,Nepal,Female,32-41
+944,Ethiopia,Male,21-31
+945,Palestine,Male,32-41
+946,Somalia,Male,42-51
+947,Haiti,Female,21-31
+948,Canada,Female,32-41
+949,Ethiopia,Male,32-41
+950,Syria,Male,42-51
+951,France,Male,21-31
+952,Uganda,Not specified,32-41
+953,Pakistan,Male,21-31
+954,Croatia,Not specified,< 21
+955,Ethiopia,Female,21-31
+956,Ethiopia,Female,21-31
+957,Nigeria,Female,21-31
+958,Greece,Male,42-51
+959,Venezuela,Female,62+
+960,Nigeria,Male,32-41
+961,Cameroon,Female,21-31
+962,Mozambique,Male,21-31
+963,Colombia,Female,32-41
+964,Israel,Female,21-31
+965,Ethiopia,Male,21-31
+966,Cote d’Ivoire,Male,42-51
+967,Iceland,Male,42-51
+968,Ukraine,Female,< 21
+969,Ethiopia,Male,42-51
+970,Congo (Democratic Republic of the),Female,32-41
+971,Philippines,Male,21-31
+972,Germany,Female,< 21
+973,Syria,Female,32-41
+974,Egypt,Male,21-31
+975,China,Male,32-41
+976,Nigeria,Female,42-51
+977,Nigeria,Male,32-41
+978,Philippines,Male,21-31
+979,Philippines,Male,21-31
+980,Thailand,Female,21-31
+981,Russia,Male,21-31
+982,Syria,Female,32-41
+983,Colombia,Female,32-41
+984,South Africa,Male,42-51
+985,Russia,Female,21-31
